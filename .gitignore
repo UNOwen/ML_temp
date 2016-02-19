@@ -1,0 +1,10 @@
+/bin
+/include
+/lib
+/share
+/man
+/data/*.pkz
+/.Python
+/.ipynb_checkpoints
+/LICENSE
+/README
