@@ -4,7 +4,7 @@ backports.ssl-match-hostname==3.5.0.1
 certifi==2015.11.20.1
 cycler==0.9.0
 decorator==4.0.6
-functools32==3.2.3-2
+functools32==3.2.3.post2
 gnureadline==6.3.3
 ipykernel==4.2.2
 ipython==4.0.3
@@ -24,6 +24,7 @@ notebook==4.1.0
 numpy==1.10.4
 pandas==0.17.1
 path.py==8.1.2
+patsy==0.4.1
 pexpect==4.0.1
 pickleshare==0.6
 ptyprocess==0.5
@@ -38,6 +39,7 @@ scipy==0.17.0
 simplegeneric==0.8.1
 singledispatch==3.4.0.3
 six==1.10.0
+statsmodels==0.6.1
 terminado==0.6
 tornado==4.3
 traitlets==4.1.0
